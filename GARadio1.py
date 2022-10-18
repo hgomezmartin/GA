@@ -7,7 +7,7 @@ album=str(input("Selecciona el album:\n 1. Zaba\n 2. How To Be a Human Being\n 3
 mixer.music.load(album)
 mixer.music.set_volume(0.7)
 mixer.music.play()
-    
+//si
 
 
 
