@@ -20,9 +20,9 @@ while True:
     opcion = input(">")
     
     if opcion == "p":
-        mixer.music.pause
+        mixer.music.pause()
     elif opcion == "r":
-        mixer.music.unpause 
+        mixer.music.unpause()
     elif opcion == "e":
         mixer.musc.stop()
         album=str(input("Selecciona el album:\n 1. Zaba\n 2. How To Be a Human Being\n 3.Dreamland"))
@@ -30,6 +30,6 @@ while True:
         mixer.music.set_volume(0.7)
         mixer.music.play()
     elif opcion == "s":
-        mixer.music.stop
+        mixer.music.stop()
  
         
