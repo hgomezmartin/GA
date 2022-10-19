@@ -5,7 +5,10 @@ Music player that allows you to reproduce any Glass Animals album in terminal (a
 <ul>
   <li>Run the .py in your terminal ( (your folders route) + python "GARadio1.py" ) </li>
   <li>Choose one album from the menu options</li>
-  <li>You can control the reproduction with: (-s --> Stop reproduction) (-r --> Resume reproduction) (-e --> Exit program)</li>
+  <li>You can control the reproduction with: </li>
+    s --> Stop reproduction<br/>
+    r --> Resume reproduction<br/>
+    e --> Exit program<br/>
   <li>Enjoy ;D</li>
 </ul>
 
