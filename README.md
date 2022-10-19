@@ -4,9 +4,7 @@ Music player that allows you to reproduce any Glass Animals album in terminal (a
 <ul>
   <li>Run the .py in your terminal </li>
   <li>Choose one album from the menu options</li>
-  <li>you can control the reproduction with: -s --> Stop reproduction</li>
-                                             -r --> Resume reproduction
-                                             -e --> Exit program
+  <li>you can control the reproduction with: (-s --> Stop reproduction) (-r --> Resume reproduction) (-e --> Exit program)</li>
   <li>Enjoy ;D</li>
 </ul>
 # Future Implementations
