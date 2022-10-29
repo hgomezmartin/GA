@@ -1,4 +1,4 @@
-# GA MP3 REPRODUCTOR
+# GA MP3 PLAYER
 Music player that allows you to reproduce any Glass Animals album in terminal (at the moment).
 
 ## USER MANUAL
